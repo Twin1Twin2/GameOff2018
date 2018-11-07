@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sfx_shieldUp.ogg-151301900026ce65e6687cc3d3353ce8.oggstr"
+
+[deps]
+
+source_file="res://assets/kenny-spaceshooter-assets/Bonus/sfx_shieldUp.ogg"
+dest_files=[ "res://.import/sfx_shieldUp.ogg-151301900026ce65e6687cc3d3353ce8.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
