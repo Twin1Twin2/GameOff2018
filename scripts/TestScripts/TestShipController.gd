@@ -1,12 +1,12 @@
 extends KinematicBody2D
 
-export var mass : float = 1
+export (float) var mass : float = 1
 
-export var force : float = 200
-export var friction : float = 1
+export (float) var force : float = 200
+export (float) var friction : float = 1
 
-export var rot_force : float = deg2rad(90)
-export var rot_friction : float = 0.25
+export (float) var rot_force : float = deg2rad(90)
+export (float) var rot_friction : float = 0.25
 
 var velocity : Vector2 = Vector2()
 var rot_velocity : float = 0
